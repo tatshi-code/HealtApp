@@ -1,1 +1,1 @@
-# HealtApp
+# HealthApp
